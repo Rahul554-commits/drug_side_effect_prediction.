@@ -408,15 +408,7 @@ explainer.summary_plot()
 
 6. **Code Quality**: Real-time code inspection and PEP 8 compliance
 
-### **Deployment Options**
 
-```bash
-
-# Local Development
-
-streamlit run app/streamlit_app.py
-
-```
 
 ## 📊 Performance Monitoring & Analytics
 
@@ -456,61 +448,6 @@ streamlit run app/streamlit_app.py
 
 ---
 
-## 🔮 Future Roadmap & Enhancements
-
-### **Short-term Goals (3-6 months)**
-
-- [ ] **Multi-drug Interaction Prediction**: Expand to drug-drug interactions
-
-- [ ] **Mobile Application**: Native iOS/Android apps for healthcare providers
-
-- [ ] **Advanced Visualizations**: Interactive dashboards for clinical insights
-
-- [ ] **API Development**: RESTful API for third-party integrations
-
----
-
-## 🧪 Testing & Quality Assurance
-
-### **Comprehensive Test Suite**
-
-```bash
-
-# Run all tests
-
-pytest tests/ -v --cov=src/ --cov-report=html
-
-# Specific test categories
-
-pytest tests/unit/ -v # Unit tests
-
-pytest tests/integration/ -v # Integration tests
-
-pytest tests/performance/ -v # Performance tests
-
-pytest tests/clinical/ -v # Clinical validation tests
-
-```
-
-### **Quality Metrics**
-
-- **Code Coverage**: 95%+ test coverage across all modules
-
-- **Performance Testing**: Sub-100ms prediction latency
-
-- **Security Testing**: Automated vulnerability scanning
-
-- **Clinical Validation**: Independent medical professional review
-
-### **Continuous Quality Monitoring**
-
-- **Automated Code Review**: GitHub Actions integration
-
-- **Performance Benchmarking**: Continuous performance monitoring
-
-- **Security Scanning**: Regular dependency vulnerability checks
-
-- **Clinical Accuracy Monitoring**: Ongoing prediction accuracy validation
 
 -
 
@@ -527,3 +464,4 @@ Email: 228r1a1254.cmr@gmail.com
 GitHub: https://github.com/Rahul554-commits
 
 Project Link: https://github.com/Rahul554-commits/drug_side_effect_prediction
+
