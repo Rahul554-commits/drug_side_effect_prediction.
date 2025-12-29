@@ -459,9 +459,10 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 Shanigaramu Rahul
 
-Email: 228r1a1254.cmr@gmail.com
+Email: rahulshanigarapu600@gmail.com
 
 GitHub: https://github.com/Rahul554-commits
 
 Project Link: https://github.com/Rahul554-commits/drug_side_effect_prediction
+
 
